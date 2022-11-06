@@ -6,6 +6,16 @@ hash = "b2ea40d22049bd29e3807c89b6d2176fe9def564635dda8bdfa091b982af8c93"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "2c1a2ff78993082c519a49d113c494b0e5c50fbdc091bd1b6d024b912f0ba3b5"
+metafile = true
+
+[[files]]
+file = "mods/charmonium.pw.toml"
+hash = "0a055db2f9f07e55e121a5fc6dea915dd66bbdbb50ce5c80f98803ade5914276"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
 metafile = true
