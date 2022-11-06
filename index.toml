@@ -26,6 +26,11 @@ hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "89b77cf775f282a4c755d0839f20d2078af8fc5b2915cb526d118b9d9694c995"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
 metafile = true
@@ -61,8 +66,18 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "fdebc54ee80be90757fae74011431710cf07d1df5ffaf81678a5c2c8f2d32a2b"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "333b0a827bc10800ebfb5a83f6f540f92553d3d57bf47e3f183e0b6d935597c0"
 metafile = true
 
 [[files]]
