@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ccf1f3f81ce91c460704f8371e1a737343701eb5bd64d1937b18e26d5816b522"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "2ccb92c05354a74b7757693d51ffb36675658823a792c0274b77bf491913ff33"
+metafile = true
+
+[[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "ee9eff41327993190f1ecc723c1b7985c3ebc3627ae726a339cac6ebec6eb009"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "b2ea40d22049bd29e3807c89b6d2176fe9def564635dda8bdfa091b982af8c93"
 metafile = true
