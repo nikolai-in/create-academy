@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ccf1f3f81ce91c460704f8371e1a737343701eb5bd64d1937b18e26d5816b522"
 metafile = true

@@ -1,12 +1,12 @@
 name = "Create Academy"
 author = "fiztingvillain"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca8d94b1d38116a6bb143c487435b1e2435db0eace47fb5a07a914bf7557e4bf"
+hash = "1b20c35f34ef03542ad9bf9600e674c2b0f178c535b3b4478078f2526b3bedff"
 
 [versions]
 fabric = "0.14.10"
