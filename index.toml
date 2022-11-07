@@ -71,6 +71,16 @@ hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "9e48596517c056bb51c2b21ebcd0267a84d4a93da511f62c8ef59af3724f45bf"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "c4bed15089b2301f7d9b8953b115965df74368d7aa603940f81e1bf23bb8e4e2"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
