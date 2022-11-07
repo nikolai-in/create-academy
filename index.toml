@@ -156,8 +156,18 @@ hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2ece972fd1306a38ca278d9da23656c73bc103df57709a4bdac0a0271a646f34"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "9a031c4018bdcf4e8d70f5009a3069914b8febf96712222fdd31f8d0ae2451b4"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "39269eb45ca79786c4eac3ede212feb85ccd90fe3e25ca0e4ab7e9fc1270d96e"
 metafile = true
 
 [[files]]
