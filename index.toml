@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".DS_Store"
-hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+hash = "10ba7cff492fea49b0000ec2c837868a90e940a55db8db78d911a514bffc7be7"
+
+[[files]]
+file = "config/debugify.json"
+hash = "d498c47eb166687eef8fea9a3c8426bb73974ce8096839271eb198426c371d2c"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
